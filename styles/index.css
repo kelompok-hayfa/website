@@ -1,12 +1,12 @@
-li {
-  list-style-type: none;
-}
-
 .content {
   margin-left: 5vw;
   margin-right: 5vw;
   text-align: center;
   justify-content: center;
+
+  li {
+    list-style-type: none;
+  }
 
   ul {
     margin: 0;
