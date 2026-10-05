@@ -21,3 +21,8 @@ li {
   padding-left: 4px solid gray;
   padding-right: 4px solid gray;
 }
+
+.header {
+  text-align: center;
+  justify-content: center;
+}
