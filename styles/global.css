@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+p {
+  size: 20px;
+}
+
+body {
+  background-color: pink;
+}
+
+header {
+  ul {
+    list-style-type: none;
+    padding: 16px;
+  }
+
+  li {
+    display: inline;
+    padding-left: 4px solid gray;
+    padding-right: 4px solid gray;
+  }
+}
