@@ -17,16 +17,16 @@ p {
 
 
 header {
-  margin: 12px;
+  text-align: center;
 
   ul {
     list-style-type: none;
     padding: 0;
+    margin-top: 20px;
   }
 
   li {
     display: inline;
-    padding-left: 4px solid gray;
-    padding-right: 4px solid gray;
+    padding-inline: 1rem;
   }
 }
