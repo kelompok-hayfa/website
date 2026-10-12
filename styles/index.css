@@ -15,3 +15,12 @@
     list-style-position: inside;
   }
 }
+
+.canva {
+  display: flex;
+  justify-content: center;
+
+  .content {
+    width: 95vw;
+  }
+}
